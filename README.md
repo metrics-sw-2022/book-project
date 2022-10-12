@@ -20,7 +20,7 @@
   </a>
 </p>
 
-Book tracker web app made with Spring Boot and React (Typescript). Forked.
+Book tracker web app made with Spring Boot and React (Typescript). Forked MSW
 
 ![image](https://user-images.githubusercontent.com/11173328/112493885-739b0d80-8d7a-11eb-85a1-b4c500dc61ab.png)
 
